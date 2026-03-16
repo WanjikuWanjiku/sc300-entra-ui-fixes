@@ -2,9 +2,9 @@
 
 ## Source
 
-[Microsoft Learn – Identity and Access Administrator Career Path](https://learn.microsoft.com/en-us/training/career-paths/identity-and-access-admin)
+Microsoft Learn – [Identity and Access Administrator Career Path](https://learn.microsoft.com/en-us/training/career-paths/identity-and-access-admin)
 
-[Platform: Microsoft Entra Admin Center](https://entra.microsoft.com/)
+Platform: [Microsoft Entra Admin Center](https://entra.microsoft.com/)
 
 ---
 
