@@ -1,18 +1,23 @@
 # Finding 01 – Identity Navigation Replaced by Entra ID
 
-Source:
-Microsoft Learn – Identity and Access Administrator Career Path
+## Source
 
-Platform:
-Microsoft Entra Admin Center
+Microsoft Learn – Identity and Access Administrator Career Path  
+https://learn.microsoft.com/training/career-paths/identity-access-administrator
+
+Platform: Microsoft Entra Admin Center
+
+---
 
 ## Issue Summary
 
 Multiple Microsoft Learn exercises reference a navigation section called **Identity**.
 
-In the current Entra Admin Center interface, this section no longer exists.
+In the current Microsoft Entra Admin Center interface, this section no longer exists.
 
 The correct navigation option is **Entra ID**.
+
+---
 
 ## Example Affected Exercises
 
@@ -26,6 +31,8 @@ Correct instruction:
 
 "In the left navigation pane, select Entra ID."
 
+---
+
 ### Exercise – Invite guest users in bulk
 
 Original instruction:
@@ -36,9 +43,15 @@ Correct instruction:
 
 "In the left navigation pane, select Entra ID."
 
+---
+
 ## Root Cause
 
-The Entra Admin Center interface has been updated and the navigation terminology has changed.
+The Microsoft Entra Admin Center interface has been updated and the navigation terminology has changed.
+
+Some Microsoft Learn exercises still reference the previous interface.
+
+---
 
 ## Evidence
 
@@ -50,7 +63,7 @@ The Entra Admin Center interface has been updated and the navigation terminology
 
 ![Entra Navigation](../screenshots/entra-ui-navigation.png)
 
-Some Microsoft Learn exercises still reference the previous interface.
+---
 
 ## Verification
 
