@@ -40,6 +40,16 @@ Correct instruction:
 
 The Entra Admin Center interface has been updated and the navigation terminology has changed.
 
+## Evidence
+
+### Microsoft Learn Instruction Referencing "Identity"
+
+![Microsoft Learn Identity Instruction](../screenshots/learn-instruction-identity.png)
+
+### Current Entra Admin Center Navigation
+
+![Entra Navigation](../screenshots/entra-ui-navigation.png)
+
 Some Microsoft Learn exercises still reference the previous interface.
 
 ## Verification
