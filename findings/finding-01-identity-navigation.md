@@ -8,16 +8,6 @@ Platform: [Microsoft Entra Admin Center](https://entra.microsoft.com/)
 
 ---
 
-# Finding 01 – Identity Navigation Replaced by Entra ID
-
-## Source
-Microsoft Learn – Identity and Access Administrator Career Path  
-https://learn.microsoft.com/training/career-paths/identity-access-administrator
-
-Platform: Microsoft Entra Admin Center
-
----
-
 ## Issue Summary
 
 Multiple Microsoft Learn exercises reference a navigation section called **Identity**.
