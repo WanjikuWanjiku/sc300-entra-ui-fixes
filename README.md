@@ -4,6 +4,14 @@ Documentation of UI discrepancies between Microsoft Learn SC-300 labs and the cu
 # Microsoft Learn – Identity and Access Administrator Career Path  
 ## Entra Admin Center UI Documentation Fixes
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Source Learning Path](#source-learning-path)
+- [Certification Target](#certification-target)
+- [Documented Findings](#documented-findings)
+- [Purpose of This Repository](#purpose-of-this-repository)
+
 This repository documents discrepancies between instructions in the Microsoft Learn Identity and Access Administrator learning path and the current Microsoft Entra Admin Center interface.
 
 During hands-on exercises, some instructions reference navigation elements that no longer exist in the updated interface. This project documents those differences and provides corrected steps for learners.
