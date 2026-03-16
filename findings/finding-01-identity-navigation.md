@@ -20,11 +20,11 @@ The correct navigation option is **Entra ID**.
 
 ## Correct Navigation
 
-Original instruction:
+####Original instruction:
 
 "In the menu on the left expand the Identity section."
 
-Updated instruction:
+####Updated instruction:
 
 "In the left navigation pane, select **Entra ID**."
 
