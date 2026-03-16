@@ -58,10 +58,14 @@ Observed in the Microsoft Entra Admin Center interface (March, 2026).
 
 ## Affected Exercises
 
-The following exercises contain this issue:
+The following exercises reference the **Identity** navigation section which no longer exists in the current interface.
 
-- Add a new user
-- Invite guest users in bulk
-- Assign roles to users
-- Manage guest users
-- Review audit logs
+### [Create a new user in Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/create-configure-manage-identities/3-exercise-assign-licenses-users)
+
+### [Create a security group in Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/create-configure-manage-identities/3-exercise-assign-licenses-users)
+
+### [Exercise – Configure external collaboration](https://learn.microsoft.com/en-us/training/modules/implement-manage-external-identities/4-exercise-configure-external-collaboration)
+
+### [Exercise – Add guest users to directory](https://learn.microsoft.com/en-us/training/modules/implement-manage-external-identities/6-exercise-add-guest-users-to-directory)
+
+### [Exercise – Invite guest users in bulk](https://learn.microsoft.com/en-us/training/modules/implement-manage-external-identities/7-exercise-invite-guest-users-bulk)
