@@ -17,15 +17,11 @@ SC-300 – Microsoft Identity and Access Administrator
 Platform:  
 Microsoft Entra Admin Center
 
----
-
 ## Documented Findings
 
 Finding 01 – Identity navigation replaced by Entra ID
 
 More findings will be added as additional discrepancies are discovered while working through the learning path exercises.
-
----
 
 ## Purpose of This Repository
 
