@@ -19,7 +19,7 @@ During hands-on exercises, some instructions reference navigation elements that 
 
 ## Project Overview
 
-While working through the Microsoft Learn training modules for the Identity and Access Administrator career path, some exercise instructions reference navigation paths that no longer match the current Microsoft Entra Admin Center interface.
+While working through the Microsoft Learn training modules for the Identity and Access Administrator career path, some exercise instructions reference navigation paths that no longer match the current interface.  
 
 This repository tracks those discrepancies and documents corrected instructions to help learners successfully complete the labs.
 
@@ -27,9 +27,7 @@ This repository tracks those discrepancies and documents corrected instructions 
 
 ## Source Learning Path
 
-Microsoft Learn – Identity and Access Administrator Career Path
-
-https://learn.microsoft.com/training/career-paths/identity-access-administrator
+Microsoft Learn – [Identity and Access Administrator Career Path](https://learn.microsoft.com/en-us/training/career-paths/identity-and-access-admin)
 
 ---
 
@@ -41,7 +39,7 @@ SC-300 – Microsoft Identity and Access Administrator
 
 ## Platform
 
-Microsoft Entra Admin Center
+[Microsoft Entra Admin Center](https://entra.microsoft.com/)
 
 ---
 
