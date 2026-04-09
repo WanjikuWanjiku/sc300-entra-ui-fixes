@@ -45,7 +45,7 @@ SC-300 – Microsoft Identity and Access Administrator
 
 ## Documented Findings
 
-- **Finding 01 – Identity navigation replaced by Entra ID**
+- [**Finding 01 – Identity navigation replaced by Entra ID**](https://github.com/WanjikuWanjiku/sc300-entra-ui-fixes/blob/02e3bb4834318f210fdf55409058b9ef2764ca71/findings/finding-01-identity-navigation.md)
 
 Additional findings will be added as discrepancies are discovered while progressing through the learning path exercises.
 
